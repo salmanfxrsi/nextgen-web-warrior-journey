@@ -1,3 +1,5 @@
+{
+    
 // Learning Function - 1) Normal Function 2) Arrow Function
 
 function add(num1 : number, num2 : number = 0) {
@@ -21,3 +23,5 @@ const poorUser = {
 const arr : number[] = [1, 4, 10];
 
 const newArr : number[] = arr.map((element : number) : number => element * element);
+
+}
