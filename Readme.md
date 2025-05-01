@@ -33,17 +33,6 @@ To build a strong foundation in modern web development, one skill at a time — 
 
 ---
 
-## 📅 Ongoing Mission Schedule
-
-Here’s a visual glimpse of my current mission focus —  
-_“Consistent effort creates unstoppable momentum.”_
-
-<p align="center">
-  <img src="https://i.ibb.co.com/XZFY4g8M/Web-Photo-Editor-1.jpg" alt="Ongoing Mission Schedule" style="max-width: 100%; height: auto;" />
-</p>
-
----
-
 ## 📌 Stay Tuned
 
 I’ll be regularly pushing code, notes, and updates.  
