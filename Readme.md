@@ -38,7 +38,9 @@ To build a strong foundation in modern web development, one skill at a time — 
 Here’s a visual glimpse of my current mission focus —  
 _“Consistent effort creates unstoppable momentum.”_
 
-![Ongoing Mission Schedule](https://i.ibb.co.com/XZFY4g8M/Web-Photo-Editor-1.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/XZFY4g8/Web-Photo-Editor-1.jpg" alt="Ongoing Mission Schedule" style="max-width: 100%; height: auto;" />
+</p>
 
 ---
 
