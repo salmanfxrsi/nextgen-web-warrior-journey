@@ -1,6 +1,6 @@
 {
     // Generic With Interface
-    interface Student <X, Z> {
+    interface Student <X, Z = null> {
         id: number;
         name: string;
         roll: number;
@@ -15,7 +15,7 @@
         science: string;
     };
 
-    const studentOne : Student <Result, null >= {
+    const studentOne : Student <Result>= {
         id: 0,
         name: 'Farsi',
         roll: 8,
