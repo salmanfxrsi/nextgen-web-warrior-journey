@@ -11,7 +11,12 @@ const age: GenericArray<number> = [20, 34, 53, 78, 89];
 // const isAdmin: boolean[] = [false, true, true, false];
 const isAdmin: GenericArray<boolean> = [false, true, true, false];
 
-const user : GenericArray<{name: string, age: number}> = [
+interface User {
+    name: string;
+    age: number;
+}
+
+const user : GenericArray<User> = [
     {
         name: "Farsi",
         age: 100,
