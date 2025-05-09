@@ -1,0 +1,18 @@
+1. Basic Data Type
+2. Object, Optional and Literal Types
+3. Function in TS 
+4. Spread and Rest Operator
+5. Destructuring in TS 
+6. Type alias in TS 
+7. Union and Intersection Types 
+8. Ternary, Optional chaining and Nullish coalescing Operator
+9. Never and Unknown Type
+10. Type assertion / Type narrowing
+11. Interface, Type Vs Interface
+12. Introduction to Generics
+13. Generic With Interface
+14. Function With Generics
+15. Constraints in TS 
+16. Constraint Using KeyOf 
+17. Asynchronous TS 
+18. Conditional, Mapped, Utility Types 
