@@ -5,8 +5,8 @@
 5. Destructuring in TS ✅
 6. Type alias in TS ✅
 7. Union and Intersection Types ✅
-8. Ternary, Optional chaining and Nullish coalescing Operator
-9. Never and Unknown Type
+8. Ternary, Optional chaining and Nullish coalescing Operator ✅
+9. Never and Unknown Type 
 10. Type assertion / Type narrowing
 11. Interface, Type Vs Interface
 12. Introduction to Generics
