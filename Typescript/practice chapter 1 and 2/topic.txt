@@ -1,6 +1,6 @@
 1. Basic Data Type ✅
 2. Object, Optional and Literal Types ✅
-3. Function in TS 
+3. Function in TS ✅
 4. Spread and Rest Operator
 5. Destructuring in TS 
 6. Type alias in TS 
