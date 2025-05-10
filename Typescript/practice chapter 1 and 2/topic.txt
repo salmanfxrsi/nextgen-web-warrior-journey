@@ -14,5 +14,5 @@
 14. Function With Generics ✅
 15. Constraints in TS ✅
 16. Constraint Using KeyOf ✅
-17. Asynchronous TS 
-18. Conditional, Mapped, Utility Types 
+17. Asynchronous TS ✅
+18. Conditional, Mapped, Utility Types ✅
