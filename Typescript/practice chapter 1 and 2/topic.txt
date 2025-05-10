@@ -8,8 +8,8 @@
 8. Ternary, Optional chaining and Nullish coalescing Operator ✅
 9. Never and Unknown Type ✅
 10. Type assertion / Type narrowing ✅
-11. Interface, Type Vs Interface
-12. Introduction to Generics
+11. Interface, Type Vs Interface ✅
+12. Introduction to Generics 
 13. Generic With Interface
 14. Function With Generics
 15. Constraints in TS 
