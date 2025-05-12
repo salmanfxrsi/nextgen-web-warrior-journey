@@ -14,16 +14,17 @@ a place to track what I learn, build small projects, solve problems, and grow as
 
 ---
 
-## 🚀 Current Focus: TypeScript
+## 🚀 Current Focus: RDBMS
 
-I'm currently diving deep into **TypeScript** — enhancing my JavaScript knowledge with strong typing, interfaces, generics, and more.  
-This phase marks the beginning of my journey toward becoming a **NextGen Web Warrior**.
+I'm currently diving deep into RDBMS — mastering concepts like data normalization, SQL queries, indexing, transactions, and relational schema design.
+This phase marks the foundation of my journey toward becoming a NextGen Data-Driven Developer.
 
 ---
 
 ## 🛠️ Tools 
 
-⏳ TypeScript (learning now)  
+✅ TypeScript
+⏳  RDBMS (learning now)  
 
 ---
 
